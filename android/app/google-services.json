@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80714262046",
+    "firebase_url": "https://uasmobile-feae1.firebaseio.com",
+    "project_id": "uasmobile-feae1",
+    "storage_bucket": "uasmobile-feae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80714262046:android:2a9b3ed4faf332248c300f",
+        "android_client_info": {
+          "package_name": "com.minionline_galery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80714262046-fktnfl088rj8edfqgo97odemsgtkh4sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCoQ7JfDaD1FHcrgdx4AOsZgMu4Optnvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80714262046-fktnfl088rj8edfqgo97odemsgtkh4sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
